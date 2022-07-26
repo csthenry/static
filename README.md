@@ -11,7 +11,7 @@
 | layer  |插件   |
 | music  |音乐   |
 | video  |视频   |
-| css  |CSS样式文件   |
+| css  |CSS样式   |
 
 **更多文件更新中**
 
